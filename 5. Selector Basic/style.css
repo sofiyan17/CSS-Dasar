@@ -1,0 +1,21 @@
+body {
+    font-family: verdana;
+}
+h1, h2 {
+    color: rgb(255, 238, 0);
+}
+ul li a {
+    color: green;
+}
+ol li a {
+    color: red;
+}
+#p1 {
+    color: rgb(0, 247, 255);
+}
+.p2 {
+    color: rgb(255, 0, 234);
+}
+.tebal {
+    font-weight: bold;
+}

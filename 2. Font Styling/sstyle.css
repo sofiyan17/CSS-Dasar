@@ -1,0 +1,20 @@
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    color:aqua;
+    font-size:100px;
+    font-weight: normal;
+    font-variant: small-caps;
+    font-style:  oblique;
+}
+#p1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 50px;
+}
+#p2{
+    font-family: verdana;
+    font-size: 17px;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-style: oblique;
+    line-height: 20px;
+}

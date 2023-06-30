@@ -1,0 +1,20 @@
+#hello:link {
+    color:chartreuse
+}
+#hello:hover {
+    color: darkmagenta;
+    font-size: 20px;
+}
+#hello:active {
+    color: yellow;
+    text-decoration: overline;
+}
+#hello:visited {
+    color: red;
+}
+li:nth-child(even) a{
+    color: red;
+}
+p:nth-of-type(2n-1){
+    color: rgb(39, 150, 187);
+}
